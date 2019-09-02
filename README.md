@@ -1,12 +1,12 @@
-#NPM Shadow Wizard Package
+# NPM Shadow Wizard Package
 
 
 Just get your shadows and paddings right without messing it up.
 
-#Installation
+# Installation
 Just type in the following in your command-line : `npm -i shadowizard --save`
 
-#Usage
+# Usage
 
 ```
 
@@ -20,7 +20,7 @@ shadowizard({
 ```
 
 
-## Options
+# Options
 
 Shadowizard has two modes:
 + *shadow_type* = _hard | soft_ (soft is default)
