@@ -1,5 +1,6 @@
 # NPM Shadow Wizard Package
 
+Find it on NPM : https://www.npmjs.com/package/shadowist
 
 Just get your shadows and paddings right without messing it up.
 
