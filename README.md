@@ -5,7 +5,7 @@ Find it on NPM : https://www.npmjs.com/package/shadowist
 Just get your shadows and paddings right without messing it up.
 
 # Installation
-Just type in the following in your command-line : `npm -i shadowizard --save`
+Just type in the following in your command-line : `npm -i shadowist --save`
 
 # Usage
 
